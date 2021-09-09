@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SimpleCheckbox",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v10)
     ],
     products: [
         .library(
